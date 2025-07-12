@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  account: one
+  category: one
+  amount: 1
+  description: MyText
+  notes: MyText
+  date: 1
+  kind: MyString
+  starting_balance_flag: 1
+  transferred_id: 1
+  sort_order: 9.99
+  tombstone: 1
+
+two:
+  user: two
+  account: two
+  category: two
+  amount: 1
+  description: MyText
+  notes: MyText
+  date: 1
+  kind: MyString
+  starting_balance_flag: 1
+  transferred_id: 1
+  sort_order: 9.99
+  tombstone: 1

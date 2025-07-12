@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  name: MyString
+  is_income: 1
+  sort_order: 9.99
+  tombstone: 1
+
+two:
+  user: two
+  name: MyString
+  is_income: 1
+  sort_order: 9.99
+  tombstone: 1

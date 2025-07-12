@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  name: MyString
+  kind: MyString
+  offbudget: 1
+  closed: 1
+  tombstone: 1
+
+two:
+  user: two
+  name: MyString
+  kind: MyString
+  offbudget: 1
+  closed: 1
+  tombstone: 1
